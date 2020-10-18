@@ -1,0 +1,47 @@
+h1 {
+    color: #ffffff;
+    background-color: #A52A2A;
+    text-align: center;
+}
+article img {
+    width: 1480px;
+}
+span {
+    font-style: italic;
+}
+.p-1 a {
+    font-style: italic;
+    text-decoration: none;
+ }
+.p-2 a {
+    text-decoration: none;
+}
+main {
+    font-size: 18px;
+}
+#car1 {
+    border: 3px dashed black;
+    margin-left: 550px;
+}
+#car2 {
+    border: 3px dashed black;
+}
+#car3 {
+    border: 3px dashed black;
+}
+#car4 {
+    border: 3px dashed black;
+}
+#car5 {
+    border: 3px dashed black;
+    padding-right: initial;
+}
+footer {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+div {
+    padding-left: 00px;1
+}
